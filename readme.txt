@@ -1,0 +1,1 @@
+Repositório de problemas resolvidos de maratonas e olimpíadas de computação.
