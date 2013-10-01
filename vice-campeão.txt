@@ -1,0 +1,5 @@
+Problema: Vice - Campeão
+Autor: Camila Lopes
+Data: 19/03/2013
+Fonte/Descrição: OBI,Programação Nível 1
+Acerto: 100%
