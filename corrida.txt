@@ -1,0 +1,5 @@
+Problema: Corrida
+Autor: Igor Alberte
+Data: 01/10/13
+Fonte/Descrição: OBI, Programação Nível 1
+Acerto: ...
