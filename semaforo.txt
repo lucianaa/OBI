@@ -1,0 +1,10 @@
+Problema: Semáforo
+Autor: Gabriel Lopo
+Data: 22/10/13
+Fonte/Descrição: Luciana Balieiro
+Acerto: ...
+
+Uso de funções criadas;
+Uso de funções da biblioteca time.h, como o Sleep(), para deixar o programa "dormindo um tempo"
+Eu podia criar uma função recursiva, as optei por colocar a logica da função em um loop. 
+ 
